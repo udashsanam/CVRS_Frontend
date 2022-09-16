@@ -1,0 +1,25 @@
+{
+  "citizenDto": {
+    "firstName": "susan",
+    "middleName": "bahadur",
+    "lastName": "shrestha",
+    "citizenship": "234234",
+    "dob": "03/16/1999",
+    "gender": "Male",
+    "phoneNum": "9810126463",
+    "email": "test@gmail.com"
+  },
+  "locationDto": {
+    "state": "3",
+    "zone": "bagmati",
+    "district": "ktm",
+    "municipality": "chandragiri",
+    "wardNo": "6"
+  },
+  "occupationDto": {
+    "name": "student"
+  },
+  "medicalConditionDto": {
+    "name": "normal"
+  }
+}

@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "Smooch Sans", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bg {
+  background-color: #efebe9;
+}
+
+.textBold--Size20 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-top: 10px;
+}
+
+.formLabelSize {
+  font-size: 20px;
+}
+
+.formBorder--TextColor {
+  border: 5px solid #001142;
+  color: #000b29;
+}
+
+.contain {
+  padding: 0px;
+  width: 90%;
+  margin: 0 5%;
+}
+
+.button {
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 17px;
+}
+
+.sub-title {
+  font-size: 20px;
+  margin: 10px 0px;
+  letter-spacing: 0.2px;
+  font-weight: bold;
+}
+
+.mouse {
+  cursor: pointer;
+}
+
+.no--decoration {
+  text-decoration: none;
+  color: "#cacaca";
+}
